@@ -19,4 +19,4 @@
 --------
 **make -j16**  
 编译完成后将在coreboot/build目录下生成coreboot.rom文件。这个文件即可使用flashrom工具输入设备的flash中。
-刷flash方式参考《更新BIOS.MD》。
+刷flash方式参考《UPDATEBIOS.md》。
