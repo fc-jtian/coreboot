@@ -1,5 +1,61 @@
 编译方法
 ===============
+安装依赖库
+--------
+ubuntu系统下执行：
+
+	apt-get install \
+		bc \
+		bison \
+		bzip2 \
+		ccache \
+		cmake \
+		curl \
+		device-tree-compiler \
+		dh-autoreconf \
+		diffutils \
+		doxygen \
+		flex \
+		g++ \
+		gawk \
+		gcc \
+		git \
+		gnat \
+		graphviz \
+		libcrypto++-dev \
+		libfreetype6-dev \
+		libftdi-dev \
+		libftdi1-dev \
+		libglib2.0-dev \
+		libgmp-dev \
+		libjaylink-dev \
+		liblzma-dev \
+		libncurses5-dev \
+		libpci-dev \
+		libreadline-dev \
+		libssl-dev \
+		libusb-1.0-0-dev \
+		libusb-dev \
+		libxml2-dev \
+		libyaml-dev \
+		m4 \
+		make \
+		msitools \
+		nasm \
+		openssl \
+		patch \
+		pkg-config \
+		python \
+		qemu \
+		rsync \
+		shellcheck \
+		subversion \
+		unifont \
+		uuid-dev \
+		vim-common \
+		wget \
+		xz-utils \
+		zlib1g-dev
 
 准备目标结构
 --------
