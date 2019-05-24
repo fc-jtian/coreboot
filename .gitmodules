@@ -1,3 +1,6 @@
 [submodule "vboot"]
 	path = 3rdparty/vboot
 	url = ../vboot.git
+[submodule "depthcharge"]
+	path = payloads/external/depthcharge/depthcharge
+	url = ../depthcharge.git
